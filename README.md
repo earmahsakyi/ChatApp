@@ -19,7 +19,7 @@ Users can send and receive messages instantly, see typing indicators, read recei
 
 ## 🖼 Screenshots
 
-> Insert your screenshots here:
+
 - **Landing Page**
 <img width="1920" height="975" alt="land" src="https://github.com/user-attachments/assets/fee96adf-0c32-4edd-92e3-b13175800bfb" />
 
