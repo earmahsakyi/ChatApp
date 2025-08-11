@@ -39,7 +39,6 @@ Users can send and receive messages instantly, see typing indicators, read recei
 - React
 - Redux
 - Tailwind CSS
-- Framer Motion
 - React Router
 
 **Backend**
